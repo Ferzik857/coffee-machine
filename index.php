@@ -62,6 +62,11 @@
       </div>
     </div>
   </div>
+  <div class="bills">
+    <img src="img/50rub.jpg" alt="">
+    <img src="img/100rub.jpg" alt="">
+    <img src="img/500rub.jpg" alt="">
+  </div>
     <!-- Optional JavaScript -->
     <script src="coffee.js"></script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
